@@ -27,7 +27,7 @@ public class Test : MonoBehaviour
         LogTool.ColorLog(LogColor.Blue, "Color Log:Blue.");
         LogTool.ColorLog(LogColor.Cyan, "Color Log:Cyan.");
         LogTool.ColorLog(LogColor.Magenta, "Color Log:Magenta.");
-        LogTool.ColorLog(LogColor.Yellow, "Color Log:Yellow."); 
+        LogTool.ColorLog(LogColor.Yellow, "Color Log:Yellow.");
     }
 
 }
