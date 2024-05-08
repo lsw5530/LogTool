@@ -14,9 +14,9 @@
     },
     "samples": [
         {
-            "displayName": "Demo",
-            "description": "Demo",
-            "path": "Demo"
+            "displayName": "LogToolDemo",
+            "description": "Demo for LogTool",
+            "path": "Samples~"
         }
     ]
 }
