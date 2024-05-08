@@ -11,5 +11,12 @@
         "name": "lsw",
         "email": "lsw5530@126.com",
         "url": "https://space.bilibili.com/232020757"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Demo",
+            "description": "Demo",
+            "path": "Demo"
+        }
+    ]
 }
