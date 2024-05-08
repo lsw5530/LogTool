@@ -2,7 +2,7 @@
     "name": "com.vtool.logtool",
     "version": "0.0.1",
     "displayName": "LogTool",
-    "description": "自定义日志插件",
+    "description": "unity log tool",
     "unity": "2019.1",
     "unityRelease": "0b5",
     "dependencies": {
